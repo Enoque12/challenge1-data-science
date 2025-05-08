@@ -42,7 +42,59 @@
 ![TabelaEstrutura](https://github.com/user-attachments/assets/6bdae685-c0bb-48ab-8171-019e60d598dd)
 <h1>Faturamento</h1>
 ![Captura de Ecrã (275)](https://github.com/user-attachments/assets/0581c9ef-ca25-46b2-81b2-8cd81afe6074)<br>
-![Captura de Ecrã (276)](https://github.com/user-attachments/assets/6aac5434-5d77-4456-a77d-a5b30437f8d0)
+![Captura de Ecrã (276)](https://github.com/user-attachments/assets/6aac5434-5d77-4456-a77d-a5b30437f8d0)<br>
+
+<h1>Recomendação para o Senhor João</h1>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Loja</th>
+      <th>Faturamento</th>
+      <th>Vendas por Categoria</th>
+      <th>Média de Avaliação</th>
+      <th>Média de Frete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Loja 1</td>
+      <td>R$ 1.534.509,12</td>
+      <td>Muito Boa</td>
+      <td>3.977</td>
+      <td>R$ 34,692</td>
+    </tr>
+    <tr>
+      <td>Loja 2</td>
+      <td>R$ 1.488.459,06</td>
+      <td>Boa</td>
+      <td>4.037</td>
+      <td>R$ 33,622</td>
+    </tr>
+    <tr>
+      <td>Loja 3</td>
+      <td>R$ 1.464.025,03</td>
+      <td>Boa</td>
+      <td>4.048</td>
+      <td>R$ 33,074</td>
+    </tr>
+    <tr>
+      <td>Loja 4</td>
+      <td>R$ 1.384.497,58</td>
+      <td>Boa</td>
+      <td>3.996</td>
+      <td>R$ 31,279</td>
+    </tr>
+  </tbody>
+</table>
+<p>Após a análise dos principais indicadores das quatro lojas — faturamento, vendas por categoria, avaliação média dos clientes e frete médio — foi possível observar os seguintes pontos:</p><br>
+<ul>
+  <li>A Loja 1 apresenta o maior faturamento e desempenho em vendas, sendo a mais lucrativa no curto prazo. Entretanto, ela também possui a pior avaliação dos clientes e o frete mais elevado, o que pode prejudicar sua sustentabilidade no futuro se não forem feitas melhorias logísticas e de atendimento.</li>
+  <li>A Loja 4 apresenta o menor faturamento, avaliações medianas e frete mais barato. Apesar do bom custo logístico, seu desempenho financeiro é inferior às demais.</li>
+  <li>As Lojas 2 e 3 estão em posição intermediária, com avaliações e frete razoáveis, e faturamento próximo da média.</li>
+</ul>
+<p><b>Recomendação</b><br>Para o Sr. João, a melhor decisão neste momento seria vender a Loja 4, visto que ela possui o menor retorno financeiro e não se destaca nos demais indicadores.
+A Loja 1 deve ser mantida e priorizada para ações de melhoria, como renegociação de frete e investimento na experiência do cliente, pois é a que demonstra maior potencial de lucro a longo prazo.</p>
+
 
 
 
