@@ -39,5 +39,11 @@
   </li>
 </ol>
 <h1>Conhecendo os DataSets</h1>
-![Screenshot 2025-05-08 210551](https://github.com/user-attachments/assets/12994cc4-aff7-4a3c-b818-fd4f245f3346)
+![TabelaEstrutura](https://github.com/user-attachments/assets/6bdae685-c0bb-48ab-8171-019e60d598dd)
+<h1>Faturamento</h1>
+![Captura de Ecrã (275)](https://github.com/user-attachments/assets/0581c9ef-ca25-46b2-81b2-8cd81afe6074)<br>
+![Captura de Ecrã (276)](https://github.com/user-attachments/assets/6aac5434-5d77-4456-a77d-a5b30437f8d0)
+
+
+
 
