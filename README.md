@@ -18,6 +18,8 @@
     Analisar os dados das lojas:
     <ul>
       <li>Avaliarei informações como <b>faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio</b>.</li>
+      <li>Conhecendo os DataSets para a posterior analise</li>
+      <li>Faturamento</li>
     </ul>
   </li>
   
@@ -36,4 +38,6 @@
     </ul>
   </li>
 </ol>
+<h1>Conhecendo os DataSets</h1>
+![Screenshot 2025-05-08 210551](https://github.com/user-attachments/assets/12994cc4-aff7-4a3c-b818-fd4f245f3346)
 
