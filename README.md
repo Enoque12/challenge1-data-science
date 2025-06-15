@@ -39,7 +39,7 @@
   </li>
 </ol>
 <h1>Conhecendo os DataSets</h1>
-![TabelaEstrutura](https://github.com/user-attachments/assets/d1789ef5-70c8-444d-97f3-7d52128a7246)
+
 
 <h1>Faturamento</h1>
 
