@@ -39,7 +39,7 @@
   </li>
 </ol>
 <h1>Conhecendo os DataSets</h1>
-![TabelaEstrutura](https://github.com/user-attachments/assets/6bdae685-c0bb-48ab-8171-019e60d598dd)
+[![TabelaEstrutura](https://github.com/user-attachments/assets/6bdae685-c0bb-48ab-8171-019e60d598dd)](https://raw.githubusercontent.com/Enoque12/challenge1-data-science/c4d7a287f3ae45c7b5d5116a44cbb88304da6732/assets/TabelaEstrutura.png)
 <h1>Faturamento</h1>
 ![Captura de Ecrã (275)](https://github.com/user-attachments/assets/0581c9ef-ca25-46b2-81b2-8cd81afe6074)<br>
 ![Captura de Ecrã (276)](https://github.com/user-attachments/assets/6aac5434-5d77-4456-a77d-a5b30437f8d0)<br>
