@@ -39,7 +39,7 @@
   </li>
 </ol>
 <h1>Conhecendo os DataSets</h1>
-
+<a target = "_blank" href = "https://github.com/Enoque12/challenge1-data-science/blob/c4d7a287f3ae45c7b5d5116a44cbb88304da6732/assets/TabelaEstrutura.png" titlie = "DataFrame">Estrutura do DataSet</a>
 
 <h1>Faturamento</h1>
 
