@@ -39,10 +39,11 @@
   </li>
 </ol>
 <h1>Conhecendo os DataSets</h1>
+<p>Nesse ponto me foquei em descobrir a estrutura do DataFrame para poder fazer as tarefas, conhecendo dessa forma as colunas e os tipos de dados armazenados em cada coluna. Logo abaixo deixo o link para poder acessar uma captura com a estrutura do DataFrame.</p>
 <a target = "_blank" href = "https://github.com/Enoque12/challenge1-data-science/blob/c4d7a287f3ae45c7b5d5116a44cbb88304da6732/assets/TabelaEstrutura.png" titlie = "DataFrame">Estrutura do DataSet</a>
-
 <h1>Faturamento</h1>
-
+<p>Para o calculo do Faturamento criei um dicionário com o nome faturamento que recebe o faturamento de cada loja, isto é, a chave do dicionário é na verdade a loja e o valor é a soma total dos preços de cada loja. Para isso precisei usar dois ciclos/laços de repetição for's um dentro doutro, o primeiro para percorrer a lista das lojas e o segundo para percorrer o dicionário e fazer as devidas somas. (uso do Python puro).</p>
+<a target = "_blank" href = "https://github.com/Enoque12/challenge1-data-science/blob/c4d7a287f3ae45c7b5d5116a44cbb88304da6732/assets/Captura%20de%20Ecr%C3%A3%20(276).png" titlie = "Codigo">Código para o calculo do Faturamento</a>
 <h1>Recomendação para o Senhor João</h1>
 <table border="1">
   <thead>
