@@ -94,6 +94,7 @@
 </ul>
 <p><b>Recomendação</b><br>Para o Sr. João, a melhor decisão neste momento seria vender a Loja 4, visto que ela possui o menor retorno financeiro e não se destaca nos demais indicadores.
 A Loja 1 deve ser mantida e priorizada para ações de melhoria, como renegociação de frete e investimento na experiência do cliente, pois é a que demonstra maior potencial de lucro a longo prazo.</p>
+<b> Link para o dasboard das analises <a target = "_blank" href = "https://www.dashboardalurastore.streamlit.app/" titlie = "Visite o site">Dashboard Alura Store</a>
 
 
 
