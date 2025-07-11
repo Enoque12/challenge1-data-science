@@ -2,7 +2,7 @@ import pandas as pd
 
 def carregar_dados():
     lojas = ['Loja_1', 'Loja_2', 'Loja_3', 'Loja_4']
-    df = {loja: pd.read_csv(f'../Dados/{loja.lower()}.csv') for loja in lojas}
+    df = {loja: pd.read_csv(f'Dados/{loja.lower()}.csv') for loja in lojas}
     for d in df.values():
         d['Data da Compra'] = pd.to_datetime(d['Data da Compra'], format='%d/%m/%Y')
     return lojas, df
