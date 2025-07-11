@@ -55,7 +55,7 @@ def grafico_vendas_ano_categoria(df):
     sub1, sub2, sub3, sub4 = st.columns(4)
     
     with sub1:
-        ano = st.selectbox("Ano", np.int64(np.msort(df['Data da Compra'].dt.year.unique())), key="ano_cat")
+        ano = st.selectbox("Ano", np.int64(np.sort(df['Data da Compra'].dt.year.unique())), key="ano_cat")
     
     df_ano = df[df['Data da Compra'].dt.year == ano]
     df_resumo = df_ano.groupby('Categoria do Produto')['Preço'].sum().reset_index()
