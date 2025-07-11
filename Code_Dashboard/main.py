@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import carregar_dados, calcular_faturamento, calcular_avaliacao
+from utils import carregar_dados, calcular_faturamento, calcular_avaliacao, formataData
 from graficos import (
     grafico_faturamento,
     grafico_vendas_categoria,
@@ -34,7 +34,7 @@ pagina = st.sidebar.radio("Navegação", ["📊 DataFrames", "📈 Dashboard", "
 if pagina == "📊 DataFrames":
     st.title("🏠 Visão Geral")
     st.write("Bem-vindo ao painel geral das Lojas do Senhor João.")
-    st.dataframe(df_filtro)
+    st.dataframe(formataData(df_filtro))
 
 elif pagina == "📈 Dashboard":
     st.title(f"📈 Análises - {loja}")

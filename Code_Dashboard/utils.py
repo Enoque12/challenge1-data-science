@@ -20,3 +20,8 @@ def calcular_avaliacao(df_dict, loja):
 def formatar_metical(valor):
     moeda = f"{valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
     return f"{moeda} MT"
+
+def formataData(df):
+    dfr = pd.to_datetime(df['Data da Compra'])
+    dfr['Data da Compra'] = dfr['Data da Compra'].dt.strftime('%Y-%m-%d')
+    return dfr
