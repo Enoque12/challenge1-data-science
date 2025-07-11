@@ -80,7 +80,7 @@ def grafico_vendas_mensais(df):
     sub1, sub2, sub3 = st.columns(3)
     
     with sub1:
-        ano = st.selectbox("Ano", np.int64(np.msort(df_meses['Data da Compra'].dt.year.unique())), key="ano_mensal")
+        ano = st.selectbox("Ano", np.int64(np.sort(df_meses['Data da Compra'].dt.year.unique())), key="ano_mensal")
         
     with sub2:
         categoria = st.selectbox("Categoria", df['Categoria do Produto'].unique(), key="categoria_mensal")
