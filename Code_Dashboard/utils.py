@@ -22,6 +22,5 @@ def formatar_metical(valor):
     return f"{moeda} MT"
 
 def formataData(df):
-    dfr = pd.to_datetime(df['Data da Compra'])
-    dfr['Data da Compra'] = dfr['Data da Compra'].dt.strftime('%Y-%m-%d')
-    return dfr
+    df['Data da Compra'] = df['Data da Compra'].dt.strftime('%Y-%m-%d')
+    return df
